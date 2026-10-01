@@ -12,9 +12,9 @@ complete, coherent, 187-line Python module — the classes this package is built
 from, with the same scoring model, the same category boundaries, and the same
 0.3/0.7 allocation weights.
 
-**Recovered from:** `Gemini_History/Takeout/My Activity/Gemini Apps/myactivity.json`
-(record index 913), and the identical copy in
-`Gemini_Extraction/source/raw/original_gemini_export.json`.
+**Recovered from:** `Takeout/My Activity/Gemini Apps/myactivity.json`
+(record index 913), held in a separate private repository, and the identical
+copy held in another private repository.
 
 ## The neutral vocabulary was deliberate
 
@@ -35,11 +35,10 @@ so the June 22 pair represents one settled artifact rather than two drafts.
 Three other activity records carry the AC-HCCSE notebook tag but are not this
 engine:
 
-- `2026-07-04T20:39:22.644Z` — the generic "GSA Universal Cryptographic
-  Interlock Wrapper", the same template applied across many unrelated
-  codebases in that period. It contains no AC-HCCSE domain logic.
-- `2026-07-06T23:13:57.176Z` — an AST graph extractor with colour/animation
-  hooks. Unrelated.
+- `2026-07-04T20:39:22.644Z` - a generic wrapper template, applied across many
+  unrelated codebases in that period. It contains no AC-HCCSE domain logic.
+- `2026-07-06T23:13:57.176Z` - a utility with colour/animation hooks.
+  Unrelated.
 - `2026-06-22T03:45:52.680Z` — a refusal, answering a question about whether
   the code was a kernel. No artifact.
 
@@ -57,8 +56,8 @@ its artifacts, provenance notes and transcript are gone. This is a September
 
 ## Status in the research corpus
 
-AC-HCCSE previously sat in the cross-tool Gemini arm of an architecture study.
-Following the data loss it has been removed from that study set: a
-reconstruction cannot carry the evidentiary weight the original artifact would
-have, and the corpus has sufficient primary systems without it. This repository
-exists to be useful software, and is documented as such.
+AC-HCCSE previously sat in a separate research study. Following the data loss
+it has been removed from that study set: a reconstruction cannot carry the
+evidentiary weight the original artifact would have, and the corpus has
+sufficient primary material without it. This repository exists to be useful
+software, and is documented as such.
